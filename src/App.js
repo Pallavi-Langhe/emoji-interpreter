@@ -8,7 +8,11 @@ const emojiDictionary = {
   "🤥": "Lying Face",
   "😕": "Confused Face",
   "🥺": "Pleading Face",
-  "😠": "Angry Face"
+  "😠": "Angry Face",
+  "😂": "Laughing Face",
+  "😊": "Smily Face",
+  "🥳": "Party Face",
+  "😡": "Angry face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
@@ -56,3 +60,4 @@ export default function App() {
     </div>
   );
 }
+
