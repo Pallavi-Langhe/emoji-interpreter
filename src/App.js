@@ -12,7 +12,7 @@ const emojiDictionary = {
   "😂": "Laughing Face",
   "😊": "Smily Face",
   "🥳": "Party Face",
-  "😡": "Angry face"
+  "😡": "Angry face",
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
